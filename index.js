@@ -88,7 +88,6 @@ function generateSkills(answers){
       skillsHTML += answers.skills[i];
     }
   };
-  console.log('Skills HTML = ', skillsHTML);
   return skillsHTML;
 }
 
@@ -114,7 +113,6 @@ function generateContactsMenu(answers) {
   }else {
     contactHTML = contactHTML;
   }
-  console.log(contactHTML);
   return contactHTML;
 }
 
@@ -170,10 +168,8 @@ const myHTMLPage = function(answers, skills, contacts) {
 }
 
 async function start() {
-//   console.log("hi")
   try {
     const answers = await promptUser();
-    console.log('The answers are: ', answers);
 
     const skills = generateSkills(answers);
 

@@ -15,3 +15,8 @@ A command line tool that generates an HTML portfolio page from user input.
 ```javascript
 npm install
 ``` 
+1. After installing the dependencies, run the program from the command line by entering:
+```javascript
+node index.js
+```
+1. After responding to the prompts, an index.html page will be automatically generated and saved to your folder.
