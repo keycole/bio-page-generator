@@ -2,8 +2,9 @@
 A command line tool that generates an HTML portfolio page from user input.
 
 ## Built With:
-1. [Bulma CSS Framework](https://bulma.io/documentation/overview/start/)
 1. Node.js
+1. [Bulma CSS Framework](https://bulma.io/documentation/overview/start/)
+1. [Font Awesome](https://fontawesome.com/)
 
 ## Node Dependencies:
 1. inquirer
