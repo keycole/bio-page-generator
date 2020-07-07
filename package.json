@@ -1,0 +1,19 @@
+{
+  "name": "html-portfolio-page",
+  "version": "1.0.0",
+  "description": "A command line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "install"
+  ],
+  "author": "ngraiff",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.0",
+    "util": "^0.12.3"
+  }
+}
