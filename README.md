@@ -24,7 +24,7 @@ node index.js
 ## Generated Bio Page Examples
 
 ### Desktop
-![Desktop](assets/readmeImages/desktopBioPgGenerator.png);
+![Desktop](assets/readmeImages/desktopBioPgGenerator.png)
 
 
 ### Tablet
