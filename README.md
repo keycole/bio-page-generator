@@ -20,3 +20,18 @@ npm install
 node index.js
 ```
 3. After responding to the prompts, an index.html page will be automatically generated and saved to your folder.
+
+## Generated Bio Page Examples
+
+### Desktop
+![Desktop](assets/readmeImages/desktopBioPgGenerator.png);
+
+
+### Tablet
+<img src="assets/readmeImages/tabletBioPgGenerator.png" width="500px">
+
+
+### Mobile
+<img src="assets/readmeImages/mobileBioPgGenerator.png" width="300px">
+
+
